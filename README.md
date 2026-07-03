@@ -444,7 +444,7 @@ Muestra el historial de negociación IKE:
 |---|---|---|
 | 1 | [Topología general](evidencias/1.png) | Topología en PNetLab con nombre y matrícula visibles, FG1, FG2 y router ISP encendidos. |
 | 2 | [GUI VPN IPsec Tunnels](evidencias/2.png) | Panel `VPN → IPsec Tunnels` en FG1 mostrando el túnel `VPN-a-SitioB` en estado verde (activo). |
-| 3 | [GUI IPsec Monitor](evidencias/3.png) | Panel `Monitor → IPsec Monitor` con Phase 1 y Phase 2 establecidas y bytes transmitidos. |
+| 3 | [GUI IPsec Política y objetivos](evidencias/3.png) | Panel `Monitor → IPsec Monitor` con Phase 1 y Phase 2 establecidas y bytes transmitidos. |
 | 4 | [Traceroute exitoso](evidencias/4.png) | Resultado del traceroute desde FG1 hacia PC2 (`202.50.73.130`) confirmando comunicación entre LANs. |
 
 ---
