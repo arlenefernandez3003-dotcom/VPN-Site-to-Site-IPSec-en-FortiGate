@@ -451,9 +451,9 @@ Muestra el historial de negociación IKE:
 
 ## 8. Video Demostrativo
 
-🎥 **[Ver en YouTube — enlace pendiente](#)**
+🎥 **[Ver en YouTube — enlace pendiente](https://youtu.be/bVAHTs_27zY)**
 
-**Duración estimada:** < 8 minutos
+
 
 ---
 
